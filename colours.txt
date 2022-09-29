@@ -5,3 +5,5 @@ Green - 4
 Purple - 5
 Pink - 6
 Yellow - 7
+
+These are some colours with values
